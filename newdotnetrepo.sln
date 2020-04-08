@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newdotnetrepo", "newdotnetrepo\newdotnetrepo.csproj", "{0016BD04-787D-4688-9FF9-884F5842B691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newdotnetrepo.Tests", "newdotnetrepo.Tests\newdotnetrepo.Tests.csproj", "{2CE8104A-975B-4533-B276-C8D282A27987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0016BD04-787D-4688-9FF9-884F5842B691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0016BD04-787D-4688-9FF9-884F5842B691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0016BD04-787D-4688-9FF9-884F5842B691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0016BD04-787D-4688-9FF9-884F5842B691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE8104A-975B-4533-B276-C8D282A27987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE8104A-975B-4533-B276-C8D282A27987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE8104A-975B-4533-B276-C8D282A27987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE8104A-975B-4533-B276-C8D282A27987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD106228-DCF9-45B0-A43E-BBF5392ADFA4}
+	EndGlobalSection
+EndGlobal
